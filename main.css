@@ -1,0 +1,65 @@
+.fon {
+    width: 900px;
+    height: 900px;
+    background: cadetblue;
+    margin: 0 auto;
+
+    border: 10px solid #3b3b35;
+}
+.BOXS{
+    display: flex;
+    height: 65%;
+}
+.blue-one{
+    width: 70%;
+    background: darkslategray;
+    border: 10px solid white;
+}
+.block {
+    background: deeppink;
+    height: 30%;
+    border: 10px solid white;
+
+}
+
+.over {
+    display: flex;
+    height: 65%;
+
+}
+
+.four {
+
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 70%;
+}
+
+.blue {
+    background: #56567c;
+    height: 60%;
+    border: 10px solid white;
+}
+
+.three {
+    display: flex;
+    flex-direction: row;
+    height: 50%;
+
+
+}
+
+.gold {
+    width: 32%;
+    height: auto;
+    background: sandybrown;
+    border: 10px solid white;
+
+}
+
+.lost {
+    background: darkred;
+    border: 10px solid white;
+    width: 30%;
+}
